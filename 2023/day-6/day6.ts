@@ -25,16 +25,23 @@ function getPossibleOutcomes({
   totalTime: number;
   distance: number;
 }) {
-  let possible = 0;
-  for (let i = 1; i < totalTime - 1; i++) {
+  let first = 0;
+  let last = totalTime - 1;
+  for (let i = 0; i < totalTime; i++) {
     if (calcDistance({ pauseTime: i, totalTime }) > distance) {
-      possible++;
+      first = i;
+      break;
+    }
+  }
+  for (let i = totalTime; i >= 0; i--) {
+    if (calcDistance({ pauseTime: i, totalTime }) > distance) {
+      last = i;
+      break;
     }
   }
 
-  return possible;
+  return last - first + 1;
 }
-
 const [time, distance] = data.split("\n").map(getNumbers);
 let result = 1;
 for (let race = 0; race < time.length; race++) {
@@ -44,4 +51,4 @@ for (let race = 0; race < time.length; race++) {
   });
 }
 
-console.log({ time, distance, result });
+console.log(result);
