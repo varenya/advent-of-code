@@ -1,0 +1,304 @@
+Game 1: 3 blue, 2 green, 6 red; 17 green, 4 red, 8 blue; 2 red, 1 green, 10 blue; 1 blue, 5 green
+Max: 1 -> Red : 12 , Green : 13, Blue : 14
+GameId: 1 -> Red : 12 , Green : 25, Blue : 22
+Game 2: 9 red, 2 green; 5 red, 1 blue, 6 green; 3 green, 13 red, 1 blue; 3 red, 6 green; 1 blue, 14 red, 6 green
+Max: 2 -> Red : 12 , Green : 13, Blue : 14
+GameId: 2 -> Red : 44 , Green : 23, Blue : 3
+Game 3: 6 red, 3 blue, 8 green; 6 blue, 12 green, 15 red; 3 blue, 18 green, 4 red
+Max: 3 -> Red : 12 , Green : 13, Blue : 14
+GameId: 3 -> Red : 25 , Green : 38, Blue : 12
+Game 4: 1 blue, 4 red; 2 blue, 6 red; 13 blue; 11 blue, 1 green, 8 red; 10 blue, 3 green, 2 red; 3 green, 7 blue
+Max: 4 -> Red : 12 , Green : 13, Blue : 14
+GameId: 4 -> Red : 20 , Green : 7, Blue : 44
+Game 5: 2 red, 1 blue, 8 green; 2 blue, 7 green, 3 red; 1 blue, 7 green, 4 red; 2 blue, 1 green, 1 red; 13 green, 1 blue
+Max: 5 -> Red : 12 , Green : 13, Blue : 14
+GameId: 5 -> Red : 10 , Green : 36, Blue : 7
+Game 6: 7 green, 1 red, 3 blue; 1 red, 4 blue; 6 green, 6 blue; 8 green, 1 red; 6 green, 1 red, 5 blue
+Max: 6 -> Red : 12 , Green : 13, Blue : 14
+GameId: 6 -> Red : 4 , Green : 27, Blue : 18
+Game 7: 10 blue, 1 green; 5 red, 8 blue, 3 green; 11 blue, 5 red, 8 green; 2 blue, 8 red, 5 green; 7 blue, 9 green; 6 blue, 2 green, 7 red
+Max: 7 -> Red : 12 , Green : 13, Blue : 14
+GameId: 7 -> Red : 25 , Green : 28, Blue : 44
+Game 8: 15 green, 8 blue, 3 red; 6 blue, 7 green, 5 red; 2 green, 1 red, 5 blue; 9 blue, 9 green, 5 red
+Max: 8 -> Red : 12 , Green : 13, Blue : 14
+GameId: 8 -> Red : 14 , Green : 33, Blue : 28
+Game 9: 16 red; 5 blue, 6 red, 9 green; 7 blue, 6 green, 2 red; 15 red, 5 blue, 3 green; 1 red, 6 green, 6 blue; 3 blue, 7 red, 5 green
+Max: 9 -> Red : 12 , Green : 13, Blue : 14
+GameId: 9 -> Red : 47 , Green : 29, Blue : 26
+Game 10: 17 green, 5 blue, 6 red; 18 green, 9 red; 4 red, 4 blue, 4 green; 10 red, 6 green, 5 blue; 8 red, 4 blue, 12 green
+Max: 10 -> Red : 12 , Green : 13, Blue : 14
+GameId: 10 -> Red : 37 , Green : 57, Blue : 18
+Game 11: 4 blue, 2 green, 5 red; 1 blue, 1 red; 9 blue, 1 green, 2 red; 4 red, 10 blue; 3 green, 4 blue, 3 red
+Max: 11 -> Red : 12 , Green : 13, Blue : 14
+GameId: 11 -> Red : 15 , Green : 6, Blue : 28
+Game 12: 4 green, 2 blue, 7 red; 4 blue, 2 green, 1 red; 7 green, 5 blue, 9 red
+Max: 12 -> Red : 12 , Green : 13, Blue : 14
+GameId: 12 -> Red : 17 , Green : 13, Blue : 11
+Game 13: 1 green, 3 red, 3 blue; 1 blue, 10 green; 2 green, 3 blue
+Max: 13 -> Red : 12 , Green : 13, Blue : 14
+GameId: 13 -> Red : 3 , Green : 13, Blue : 7
+Game 14: 7 red, 3 green, 12 blue; 5 red, 4 green, 6 blue; 13 blue, 1 red; 4 blue, 6 red, 2 green; 4 red, 3 blue; 9 red, 13 blue
+Max: 14 -> Red : 12 , Green : 13, Blue : 14
+GameId: 14 -> Red : 32 , Green : 9, Blue : 51
+Game 15: 4 blue, 5 red, 2 green; 7 red, 2 blue, 1 green; 17 red, 3 blue; 2 blue; 4 blue, 8 red
+Max: 15 -> Red : 12 , Green : 13, Blue : 14
+GameId: 15 -> Red : 37 , Green : 3, Blue : 15
+Game 16: 5 blue; 9 red, 14 green, 5 blue; 5 blue, 9 green
+Max: 16 -> Red : 12 , Green : 13, Blue : 14
+GameId: 16 -> Red : 9 , Green : 23, Blue : 15
+Game 17: 3 blue, 5 red; 6 blue, 1 green, 4 red; 7 green, 6 blue, 7 red; 1 red, 6 blue, 4 green; 6 green; 1 blue, 6 green
+Max: 17 -> Red : 12 , Green : 13, Blue : 14
+GameId: 17 -> Red : 17 , Green : 24, Blue : 22
+Game 18: 9 blue, 4 green, 2 red; 1 green, 9 red, 10 blue; 14 red, 10 green, 17 blue; 12 red, 1 green, 15 blue; 3 blue, 8 red, 2 green; 3 green, 11 red, 13 blue
+Max: 18 -> Red : 12 , Green : 13, Blue : 14
+GameId: 18 -> Red : 56 , Green : 21, Blue : 67
+Game 19: 1 blue, 3 red, 9 green; 14 green, 3 red, 2 blue; 1 blue, 8 red, 11 green; 4 blue, 3 red; 14 red, 4 green; 5 red, 8 green
+Max: 19 -> Red : 12 , Green : 13, Blue : 14
+GameId: 19 -> Red : 36 , Green : 46, Blue : 8
+Game 20: 2 blue, 3 red, 2 green; 3 blue, 2 green; 1 red, 4 green, 5 blue; 9 blue, 9 green, 3 red; 3 green, 1 blue, 4 red; 1 red, 9 green, 2 blue
+Max: 20 -> Red : 12 , Green : 13, Blue : 14
+GameId: 20 -> Red : 12 , Green : 29, Blue : 22
+Game 21: 11 blue, 6 red; 8 red; 7 red, 6 green, 11 blue; 7 green, 7 red, 11 blue; 6 red, 12 blue
+Max: 21 -> Red : 12 , Green : 13, Blue : 14
+GameId: 21 -> Red : 34 , Green : 13, Blue : 45
+Game 22: 7 green, 8 blue, 5 red; 12 green, 4 red, 2 blue; 12 green, 7 red, 11 blue
+Max: 22 -> Red : 12 , Green : 13, Blue : 14
+GameId: 22 -> Red : 16 , Green : 31, Blue : 21
+Game 23: 5 green, 2 blue, 7 red; 6 blue, 8 green, 3 red; 10 red, 5 blue; 6 green, 3 blue; 1 green, 8 red
+Max: 23 -> Red : 12 , Green : 13, Blue : 14
+GameId: 23 -> Red : 28 , Green : 20, Blue : 16
+Game 24: 17 blue, 1 green, 2 red; 2 red, 11 green, 9 blue; 6 red, 8 blue
+Max: 24 -> Red : 12 , Green : 13, Blue : 14
+GameId: 24 -> Red : 10 , Green : 12, Blue : 34
+Game 25: 3 red, 1 blue, 19 green; 1 blue, 1 green, 6 red; 6 green, 5 blue; 4 green, 2 red, 19 blue; 6 red, 19 blue, 18 green; 1 red, 4 blue, 1 green
+Max: 25 -> Red : 12 , Green : 13, Blue : 14
+GameId: 25 -> Red : 18 , Green : 49, Blue : 49
+Game 26: 3 red, 4 blue, 2 green; 2 red, 1 green, 3 blue; 14 blue, 1 green, 3 red; 5 green, 2 red, 10 blue; 9 blue, 2 red, 7 green; 15 blue, 4 green, 3 red
+Max: 26 -> Red : 12 , Green : 13, Blue : 14
+GameId: 26 -> Red : 15 , Green : 20, Blue : 55
+Game 27: 3 blue, 5 red, 2 green; 6 red, 7 blue, 9 green; 14 green, 11 red, 6 blue; 3 blue, 20 green, 3 red; 6 red, 15 green, 7 blue; 13 red, 1 blue, 14 green
+Max: 27 -> Red : 12 , Green : 13, Blue : 14
+GameId: 27 -> Red : 44 , Green : 74, Blue : 27
+Game 28: 4 blue, 7 green, 4 red; 2 red, 4 blue, 7 green; 6 blue, 11 green, 4 red; 6 blue, 6 green, 3 red; 6 green, 12 red
+Max: 28 -> Red : 12 , Green : 13, Blue : 14
+GameId: 28 -> Red : 25 , Green : 37, Blue : 20
+Game 29: 3 red, 9 blue; 5 red, 5 blue; 2 green, 3 red, 3 blue
+Max: 29 -> Red : 12 , Green : 13, Blue : 14
+GameId: 29 -> Red : 11 , Green : 2, Blue : 17
+Game 30: 1 green, 1 red, 3 blue; 1 blue, 1 red, 3 green; 1 blue; 1 blue, 3 green, 1 red; 2 blue, 2 green
+Max: 30 -> Red : 12 , Green : 13, Blue : 14
+GameId: 30 -> Red : 3 , Green : 9, Blue : 8
+Game 31: 2 blue, 1 red; 1 blue, 1 green, 1 red; 4 blue, 3 green; 1 red, 3 green, 2 blue; 2 green
+Max: 31 -> Red : 12 , Green : 13, Blue : 14
+GameId: 31 -> Red : 3 , Green : 9, Blue : 9
+Game 32: 1 blue, 6 green; 9 red, 6 green; 1 blue, 15 red, 3 green
+Max: 32 -> Red : 12 , Green : 13, Blue : 14
+GameId: 32 -> Red : 24 , Green : 15, Blue : 2
+Game 33: 18 green, 1 blue, 10 red; 10 red, 1 blue, 7 green; 11 green; 6 red, 13 green
+Max: 33 -> Red : 12 , Green : 13, Blue : 14
+GameId: 33 -> Red : 26 , Green : 49, Blue : 2
+Game 34: 10 red, 14 blue, 6 green; 2 green, 13 blue, 1 red; 8 green, 7 blue, 1 red; 9 blue, 7 green, 4 red
+Max: 34 -> Red : 12 , Green : 13, Blue : 14
+GameId: 34 -> Red : 16 , Green : 23, Blue : 43
+Game 35: 5 blue, 9 green, 2 red; 7 green, 9 blue, 5 red; 1 green, 5 red
+Max: 35 -> Red : 12 , Green : 13, Blue : 14
+GameId: 35 -> Red : 12 , Green : 17, Blue : 14
+Game 36: 10 red; 5 red, 1 green, 1 blue; 2 green, 8 red; 9 red, 2 green; 1 blue, 10 red; 6 red, 1 green, 1 blue
+Max: 36 -> Red : 12 , Green : 13, Blue : 14
+GameId: 36 -> Red : 48 , Green : 6, Blue : 3
+Game 37: 13 red, 1 blue, 7 green; 1 green, 9 red, 3 blue; 4 red, 1 blue, 11 green; 1 red; 1 red, 1 blue; 6 red, 3 blue, 2 green
+Max: 37 -> Red : 12 , Green : 13, Blue : 14
+GameId: 37 -> Red : 34 , Green : 21, Blue : 9
+Game 38: 3 blue, 12 red, 7 green; 1 green; 12 red, 1 blue
+Max: 38 -> Red : 12 , Green : 13, Blue : 14
+GameId: 38 -> Red : 24 , Green : 8, Blue : 4
+Game 39: 7 green, 12 blue, 2 red; 3 red, 10 blue, 7 green; 2 red, 8 green, 3 blue; 3 red, 12 blue, 5 green
+Max: 39 -> Red : 12 , Green : 13, Blue : 14
+GameId: 39 -> Red : 10 , Green : 27, Blue : 37
+Game 40: 7 green, 5 red; 1 green, 2 blue; 2 red, 1 green, 7 blue
+Max: 40 -> Red : 12 , Green : 13, Blue : 14
+GameId: 40 -> Red : 7 , Green : 9, Blue : 9
+Game 41: 1 red, 7 green, 2 blue; 2 green, 2 blue; 4 blue, 7 green, 1 red; 1 blue, 1 red, 7 green; 6 blue, 2 red, 3 green
+Max: 41 -> Red : 12 , Green : 13, Blue : 14
+GameId: 41 -> Red : 5 , Green : 26, Blue : 15
+Game 42: 6 blue; 4 green, 18 blue, 1 red; 10 green, 14 blue, 2 red; 6 blue, 4 green; 2 red, 13 blue, 6 green; 6 green, 1 red, 5 blue
+Max: 42 -> Red : 12 , Green : 13, Blue : 14
+GameId: 42 -> Red : 6 , Green : 30, Blue : 62
+Game 43: 5 blue, 12 red; 5 blue, 2 green, 7 red; 9 red, 4 blue; 1 green, 11 red, 2 blue; 5 red, 1 green; 2 blue, 3 red, 1 green
+Max: 43 -> Red : 12 , Green : 13, Blue : 14
+GameId: 43 -> Red : 47 , Green : 5, Blue : 18
+Game 44: 4 blue, 9 red, 4 green; 4 blue, 10 red; 4 green, 5 red; 1 green, 2 red, 3 blue
+Max: 44 -> Red : 12 , Green : 13, Blue : 14
+GameId: 44 -> Red : 26 , Green : 9, Blue : 11
+Game 45: 7 green, 2 blue, 18 red; 19 red, 7 green; 8 green, 1 blue, 19 red; 2 green, 12 red; 6 red, 5 green; 7 green, 10 red
+Max: 45 -> Red : 12 , Green : 13, Blue : 14
+GameId: 45 -> Red : 84 , Green : 36, Blue : 3
+Game 46: 1 blue, 15 red, 11 green; 7 red, 1 green, 5 blue; 13 red, 2 blue, 2 green; 7 green, 5 blue, 10 red; 12 green, 3 red, 1 blue
+Max: 46 -> Red : 12 , Green : 13, Blue : 14
+GameId: 46 -> Red : 48 , Green : 33, Blue : 14
+Game 47: 2 blue, 2 red, 5 green; 7 green, 2 red, 7 blue; 10 blue, 2 red, 8 green
+Max: 47 -> Red : 12 , Green : 13, Blue : 14
+GameId: 47 -> Red : 6 , Green : 20, Blue : 19
+Game 48: 8 green, 10 red; 6 green, 5 red; 12 green, 2 blue; 17 green, 5 red, 1 blue; 14 green, 3 blue, 16 red; 1 blue, 5 red
+Max: 48 -> Red : 12 , Green : 13, Blue : 14
+GameId: 48 -> Red : 41 , Green : 57, Blue : 7
+Game 49: 5 blue, 6 red, 12 green; 8 blue, 15 green; 4 blue, 3 green, 3 red; 6 red, 11 green, 10 blue; 9 green, 2 red, 10 blue
+Max: 49 -> Red : 12 , Green : 13, Blue : 14
+GameId: 49 -> Red : 17 , Green : 50, Blue : 37
+Game 50: 10 red, 11 green, 14 blue; 6 green, 8 blue, 17 red; 2 blue, 4 red; 6 blue, 8 green, 17 red; 17 red, 9 blue, 2 green; 13 blue, 16 red, 12 green
+Max: 50 -> Red : 12 , Green : 13, Blue : 14
+GameId: 50 -> Red : 81 , Green : 39, Blue : 52
+Game 51: 12 red, 2 green, 7 blue; 5 blue, 10 red; 1 blue, 7 red, 1 green; 14 blue, 2 red, 1 green
+Max: 51 -> Red : 12 , Green : 13, Blue : 14
+GameId: 51 -> Red : 31 , Green : 4, Blue : 27
+Game 52: 5 blue, 5 red, 8 green; 1 blue, 9 green, 7 red; 4 blue, 5 red, 3 green; 7 green, 2 blue, 2 red; 5 red, 3 blue, 17 green; 19 green, 1 red
+Max: 52 -> Red : 12 , Green : 13, Blue : 14
+GameId: 52 -> Red : 25 , Green : 63, Blue : 15
+Game 53: 4 red, 1 blue, 2 green; 1 green; 2 red; 1 blue, 2 green; 2 green, 4 red
+Max: 53 -> Red : 12 , Green : 13, Blue : 14
+GameId: 53 -> Red : 10 , Green : 7, Blue : 2
+Game 54: 7 red; 9 red, 2 blue, 14 green; 1 blue, 5 green; 7 green, 3 blue
+Max: 54 -> Red : 12 , Green : 13, Blue : 14
+GameId: 54 -> Red : 16 , Green : 26, Blue : 6
+Game 55: 11 blue, 2 green; 11 blue, 9 green, 12 red; 8 green, 6 blue, 12 red
+Max: 55 -> Red : 12 , Green : 13, Blue : 14
+GameId: 55 -> Red : 24 , Green : 19, Blue : 28
+Game 56: 2 green, 1 red, 2 blue; 4 red, 5 green, 5 blue; 5 red, 5 blue, 10 green; 8 red, 3 green, 3 blue
+Max: 56 -> Red : 12 , Green : 13, Blue : 14
+GameId: 56 -> Red : 18 , Green : 20, Blue : 15
+Game 57: 7 red, 3 green; 1 blue, 6 red, 1 green; 1 blue; 7 red, 1 green, 1 blue; 2 red, 1 blue, 1 green; 3 green, 1 blue
+Max: 57 -> Red : 12 , Green : 13, Blue : 14
+GameId: 57 -> Red : 22 , Green : 9, Blue : 5
+Game 58: 9 blue, 2 red; 2 green, 9 blue, 2 red; 5 blue, 4 green
+Max: 58 -> Red : 12 , Green : 13, Blue : 14
+GameId: 58 -> Red : 4 , Green : 6, Blue : 23
+Game 59: 8 red; 5 green, 1 blue, 3 red; 1 green, 8 red
+Max: 59 -> Red : 12 , Green : 13, Blue : 14
+GameId: 59 -> Red : 19 , Green : 6, Blue : 1
+Game 60: 9 green, 8 blue, 3 red; 10 green, 4 red; 8 blue, 2 green, 4 red; 1 red, 5 green, 7 blue; 1 green, 4 blue, 1 red; 4 blue
+Max: 60 -> Red : 12 , Green : 13, Blue : 14
+GameId: 60 -> Red : 13 , Green : 27, Blue : 31
+Game 61: 5 blue, 9 red, 4 green; 5 green, 7 blue, 6 red; 7 green, 8 red; 7 blue, 4 red, 2 green; 8 red, 4 blue, 5 green; 3 green, 9 red, 7 blue
+Max: 61 -> Red : 12 , Green : 13, Blue : 14
+GameId: 61 -> Red : 44 , Green : 26, Blue : 30
+Game 62: 9 red, 10 blue; 1 green, 7 red, 13 blue; 1 green, 11 blue; 6 red, 16 blue, 5 green; 20 red, 1 green, 3 blue
+Max: 62 -> Red : 12 , Green : 13, Blue : 14
+GameId: 62 -> Red : 42 , Green : 8, Blue : 53
+Game 63: 9 red, 8 green, 1 blue; 13 green, 12 red, 1 blue; 7 green, 5 red, 3 blue
+Max: 63 -> Red : 12 , Green : 13, Blue : 14
+GameId: 63 -> Red : 26 , Green : 28, Blue : 5
+Game 64: 3 red, 2 blue, 10 green; 3 green; 1 blue, 8 green, 2 red; 7 red, 1 blue, 4 green; 9 red, 1 blue, 4 green
+Max: 64 -> Red : 12 , Green : 13, Blue : 14
+GameId: 64 -> Red : 21 , Green : 29, Blue : 5
+Game 65: 7 red, 6 green; 1 blue, 4 green, 7 red; 6 red; 6 red, 4 green, 1 blue
+Max: 65 -> Red : 12 , Green : 13, Blue : 14
+GameId: 65 -> Red : 26 , Green : 14, Blue : 2
+Game 66: 4 blue, 4 green; 1 red, 7 green, 1 blue; 7 green, 3 red, 3 blue; 1 blue, 1 red, 6 green; 3 red, 7 green
+Max: 66 -> Red : 12 , Green : 13, Blue : 14
+GameId: 66 -> Red : 8 , Green : 31, Blue : 9
+Game 67: 5 green, 16 blue, 5 red; 4 red, 7 green, 3 blue; 4 red, 4 green, 9 blue; 12 green, 5 red; 15 green, 3 red; 10 blue, 6 red, 1 green
+Max: 67 -> Red : 12 , Green : 13, Blue : 14
+GameId: 67 -> Red : 27 , Green : 44, Blue : 38
+Game 68: 3 green, 3 blue, 5 red; 2 green, 6 blue; 2 green, 3 blue, 1 red; 1 blue, 11 red
+Max: 68 -> Red : 12 , Green : 13, Blue : 14
+GameId: 68 -> Red : 17 , Green : 7, Blue : 13
+Game 69: 5 green, 1 blue; 16 green, 9 red; 10 red, 18 green
+Max: 69 -> Red : 12 , Green : 13, Blue : 14
+GameId: 69 -> Red : 19 , Green : 39, Blue : 1
+Game 70: 1 blue, 1 green; 1 red; 1 red, 2 blue, 1 green; 1 green, 2 red; 2 blue, 2 red; 1 red
+Max: 70 -> Red : 12 , Green : 13, Blue : 14
+GameId: 70 -> Red : 7 , Green : 3, Blue : 5
+Game 71: 11 red; 2 green, 3 blue, 13 red; 1 green, 3 blue; 15 red, 1 green, 3 blue; 4 red
+Max: 71 -> Red : 12 , Green : 13, Blue : 14
+GameId: 71 -> Red : 43 , Green : 4, Blue : 9
+Game 72: 2 blue, 6 red, 18 green; 6 red, 8 green, 7 blue; 5 blue, 3 red, 12 green; 3 red, 2 blue, 4 green
+Max: 72 -> Red : 12 , Green : 13, Blue : 14
+GameId: 72 -> Red : 18 , Green : 42, Blue : 16
+Game 73: 12 blue, 7 green, 4 red; 5 green, 2 red, 4 blue; 3 green, 3 red, 10 blue; 1 green, 12 blue, 6 red; 3 blue, 6 green, 14 red
+Max: 73 -> Red : 12 , Green : 13, Blue : 14
+GameId: 73 -> Red : 29 , Green : 22, Blue : 41
+Game 74: 3 red; 1 blue, 8 green, 11 red; 3 green, 2 red
+Max: 74 -> Red : 12 , Green : 13, Blue : 14
+GameId: 74 -> Red : 16 , Green : 11, Blue : 1
+Game 75: 5 green, 2 red, 1 blue; 8 green, 2 red; 11 green, 2 red; 2 red, 17 green; 3 blue, 3 green, 2 red
+Max: 75 -> Red : 12 , Green : 13, Blue : 14
+GameId: 75 -> Red : 10 , Green : 44, Blue : 4
+Game 76: 1 blue, 5 green, 4 red; 8 green, 11 blue, 5 red; 8 blue, 2 red, 11 green
+Max: 76 -> Red : 12 , Green : 13, Blue : 14
+GameId: 76 -> Red : 11 , Green : 24, Blue : 20
+Game 77: 1 red, 11 blue, 7 green; 8 green, 4 blue; 1 blue, 8 green
+Max: 77 -> Red : 12 , Green : 13, Blue : 14
+GameId: 77 -> Red : 1 , Green : 23, Blue : 16
+Game 78: 1 green, 1 red, 1 blue; 3 green, 1 blue, 3 red; 10 green, 1 blue; 12 green
+Max: 78 -> Red : 12 , Green : 13, Blue : 14
+GameId: 78 -> Red : 4 , Green : 26, Blue : 3
+Game 79: 1 red, 11 blue, 6 green; 3 green, 3 red, 5 blue; 16 blue, 1 red, 5 green; 11 blue, 3 green, 2 red; 8 blue, 6 green, 4 red
+Max: 79 -> Red : 12 , Green : 13, Blue : 14
+GameId: 79 -> Red : 11 , Green : 23, Blue : 51
+Game 80: 5 green; 6 green, 7 red, 4 blue; 7 green, 5 blue; 6 blue, 6 green; 7 blue, 7 green; 6 green, 7 blue, 5 red
+Max: 80 -> Red : 12 , Green : 13, Blue : 14
+GameId: 80 -> Red : 12 , Green : 37, Blue : 29
+Game 81: 1 green, 14 blue; 11 blue, 1 red; 1 red, 16 green, 2 blue; 9 green, 1 red, 13 blue; 10 green, 8 blue
+Max: 81 -> Red : 12 , Green : 13, Blue : 14
+GameId: 81 -> Red : 3 , Green : 36, Blue : 48
+Game 82: 7 green, 7 red, 3 blue; 4 blue, 1 green, 4 red; 2 green, 14 blue, 3 red
+Max: 82 -> Red : 12 , Green : 13, Blue : 14
+GameId: 82 -> Red : 14 , Green : 10, Blue : 21
+Game 83: 15 blue; 2 blue, 1 green, 4 red; 8 green, 4 red, 6 blue
+Max: 83 -> Red : 12 , Green : 13, Blue : 14
+GameId: 83 -> Red : 8 , Green : 9, Blue : 23
+Game 84: 12 blue, 17 green; 6 green, 1 red, 16 blue; 1 blue, 1 red; 5 blue, 11 green
+Max: 84 -> Red : 12 , Green : 13, Blue : 14
+GameId: 84 -> Red : 2 , Green : 34, Blue : 34
+Game 85: 5 blue, 15 green, 3 red; 4 blue, 1 green, 11 red; 8 red, 2 blue, 4 green
+Max: 85 -> Red : 12 , Green : 13, Blue : 14
+GameId: 85 -> Red : 22 , Green : 20, Blue : 11
+Game 86: 11 blue, 16 green, 16 red; 11 blue, 17 red, 10 green; 8 green, 7 red
+Max: 86 -> Red : 12 , Green : 13, Blue : 14
+GameId: 86 -> Red : 40 , Green : 34, Blue : 22
+Game 87: 2 red, 4 green, 2 blue; 2 blue, 6 green; 2 red, 3 blue, 3 green; 1 red, 4 green; 1 green, 2 blue, 2 red; 4 blue, 4 green
+Max: 87 -> Red : 12 , Green : 13, Blue : 14
+GameId: 87 -> Red : 7 , Green : 22, Blue : 13
+Game 88: 10 red, 7 green; 2 blue, 6 red, 1 green; 8 blue, 8 red, 7 green; 2 green, 5 blue, 2 red; 3 blue, 3 red, 6 green
+Max: 88 -> Red : 12 , Green : 13, Blue : 14
+GameId: 88 -> Red : 29 , Green : 23, Blue : 18
+Game 89: 9 blue, 16 green; 2 red, 5 blue, 6 green; 12 blue, 15 green; 8 green, 2 red, 3 blue
+Max: 89 -> Red : 12 , Green : 13, Blue : 14
+GameId: 89 -> Red : 4 , Green : 45, Blue : 29
+Game 90: 18 red, 1 blue; 3 red, 5 blue, 4 green; 1 blue, 2 green, 6 red; 2 green, 16 red, 3 blue; 5 blue, 13 red, 5 green
+Max: 90 -> Red : 12 , Green : 13, Blue : 14
+GameId: 90 -> Red : 56 , Green : 13, Blue : 15
+Game 91: 4 red, 7 green, 1 blue; 3 green, 16 blue, 2 red; 4 green, 8 blue
+Max: 91 -> Red : 12 , Green : 13, Blue : 14
+GameId: 91 -> Red : 6 , Green : 14, Blue : 25
+Game 92: 4 red, 3 green; 5 red, 11 green, 1 blue; 16 green, 13 red; 15 green, 14 red, 3 blue; 3 red, 5 green, 2 blue
+Max: 92 -> Red : 12 , Green : 13, Blue : 14
+GameId: 92 -> Red : 39 , Green : 50, Blue : 6
+Game 93: 2 blue, 1 red, 3 green; 10 blue, 1 red, 10 green; 11 blue, 16 green, 4 red; 2 green, 20 blue, 7 red; 11 green, 8 red, 15 blue; 9 green, 10 blue, 1 red
+Max: 93 -> Red : 12 , Green : 13, Blue : 14
+GameId: 93 -> Red : 22 , Green : 51, Blue : 68
+Game 94: 2 blue, 12 red, 10 green; 16 red, 9 blue, 6 green; 5 green, 9 blue, 11 red; 4 red, 2 blue
+Max: 94 -> Red : 12 , Green : 13, Blue : 14
+GameId: 94 -> Red : 43 , Green : 21, Blue : 22
+Game 95: 2 green, 9 red, 1 blue; 2 blue, 1 red; 2 green, 5 blue, 3 red
+Max: 95 -> Red : 12 , Green : 13, Blue : 14
+GameId: 95 -> Red : 13 , Green : 4, Blue : 8
+Game 96: 1 green, 5 red, 13 blue; 1 green, 2 red, 13 blue; 2 green, 2 red, 17 blue; 3 red, 1 green; 6 red, 2 green; 1 green, 7 blue, 4 red
+Max: 96 -> Red : 12 , Green : 13, Blue : 14
+GameId: 96 -> Red : 22 , Green : 8, Blue : 50
+Game 97: 1 green, 1 red, 1 blue; 2 blue, 11 green; 1 blue, 13 green; 9 blue, 6 green, 1 red; 10 green, 8 blue
+Max: 97 -> Red : 12 , Green : 13, Blue : 14
+GameId: 97 -> Red : 2 , Green : 41, Blue : 21
+Game 98: 12 green, 9 red; 12 green, 10 blue, 3 red; 3 red, 13 green, 7 blue
+Max: 98 -> Red : 12 , Green : 13, Blue : 14
+GameId: 98 -> Red : 15 , Green : 37, Blue : 17
+Game 99: 8 green, 10 blue, 1 red; 10 green, 2 red, 6 blue; 3 green, 1 blue, 1 red; 10 blue, 1 red
+Max: 99 -> Red : 12 , Green : 13, Blue : 14
+GameId: 99 -> Red : 5 , Green : 21, Blue : 27
+Game 100: 8 blue, 6 green, 8 red; 7 red, 2 blue; 2 red, 10 green, 10 blue; 9 green, 7 red; 3 red, 7 green, 1 blue
+Max: 100 -> Red : 12 , Green : 13, Blue : 14
+GameId: 100 -> Red : 27 , Green : 32, Blue : 21
+{
+  ids: [ 13, 30, 31, 40, 53, 70 ]
+}
+237

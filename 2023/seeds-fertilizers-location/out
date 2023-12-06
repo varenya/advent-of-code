@@ -1,0 +1,74 @@
+{
+  test: [
+    {
+      start: 57,
+      end: 69
+    }, {
+      start: 81,
+      end: 94
+    }
+  ]
+}
+{
+  overlapStart: 57,
+  overlapEnd: 14
+}
+{
+  overlapStart: 57,
+  overlapEnd: 51
+}
+{
+  overlapStart: 57,
+  overlapEnd: 53
+}
+{
+  overlapStart: 81,
+  overlapEnd: 14
+}
+{
+  overlapStart: 81,
+  overlapEnd: 51
+}
+{
+  overlapStart: 81,
+  overlapEnd: 53
+}
+[
+  {
+    start: 70,
+    end: 14
+  }, {
+    start: 96,
+    end: 53
+  }, {
+    start: 70,
+    end: 51
+  }, {
+    start: 42,
+    end: 36
+  }, {
+    start: 70,
+    end: 53
+  }, {
+    start: 42,
+    end: 38
+  }, {
+    start: 95,
+    end: 14
+  }, {
+    start: 120,
+    end: 53
+  }, {
+    start: 95,
+    end: 51
+  }, {
+    start: 66,
+    end: 36
+  }, {
+    start: 95,
+    end: 53
+  }, {
+    start: 66,
+    end: 38
+  }
+]
